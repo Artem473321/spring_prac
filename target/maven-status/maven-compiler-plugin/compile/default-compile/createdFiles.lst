@@ -1,0 +1,15 @@
+com\nixsolution\semenov\dao\RoleDAO.class
+com\nixsolution\semenov\controllers\StartController.class
+com\nixsolution\semenov\models\Person.class
+com\nixsolution\semenov\dao\HibernateUtil.class
+com\nixsolution\semenov\config\Details.class
+com\nixsolution\semenov\config\MySpringMvcDispatcherServletInitializer.class
+com\nixsolution\semenov\config\SpringConfig.class
+com\nixsolution\semenov\models\Role.class
+com\nixsolution\semenov\dao\ConnectionHibernate.class
+com\nixsolution\semenov\controllers\PeopleController.class
+com\nixsolution\semenov\util\PersonValidator.class
+com\nixsolution\semenov\config\SecurityWebApplicationInitializer.class
+com\nixsolution\semenov\services\SecurityService.class
+com\nixsolution\semenov\config\SecurityConfiguration.class
+com\nixsolution\semenov\dao\PersonDAO.class
